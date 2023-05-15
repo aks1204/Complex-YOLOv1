@@ -1,3 +1,5 @@
+# In order to get details about the work carried out refer to the report.pdf file attached in this repository. The code in this repository however is not updated as of 15th May 2023.
+
 # Complex YOLOv4
 
 [![python-image]][python-url]
