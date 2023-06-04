@@ -1,4 +1,6 @@
-# In order to get details about the work carried out refer to the report.pdf file attached in this repository. The code in this repository however is not updated as of 15th May 2023.
+# Refer report.pdf in this repository to get details about the work carried out so far in this project.
+
+# The code in this repository is not updated as of 15th May 2023.
 
 # Complex YOLOv4
 
